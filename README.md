@@ -18,4 +18,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=UjjavalParmar&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Dailydotdev Community
+<a href="https://app.daily.dev/ujjaval999"><img src="https://api.daily.dev/devcards/fecbb85a8c5740e0b60315e3a7478c94.png?r=nui" width="400" alt="Ujjaval's Dev Card"/></a>

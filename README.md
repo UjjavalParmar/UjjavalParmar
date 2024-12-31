@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/hirentimbadiya/hirentimbadiya/master/name.svg" alt="Hiren Timbadiya" />
+  <img src="https://github.com/UjjavalParmar/UjjavalParmar/blob/main/name.svg" alt="Ujjaval Parmar" />
 </h1><h3 align="center">A passionate DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjavalparmar&label=Profile%20views&color=0e75b6&style=flat" alt="ujjavalparmar" /> </p>

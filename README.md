@@ -20,4 +20,3 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,python,kubernetes,docker,terraform,jenkins,linux,arch,prometheus,grafana,vim,neovim,postgresql,mysql,mongodb,git,github,vscode,bash,argocd&perline=10" />
   </a>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjavalparmar&show_icons=true&locale=en" alt="ujjavalparmar" /></p>
